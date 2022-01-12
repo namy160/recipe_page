@@ -1,4 +1,4 @@
-# recipe_page
+# Waffle Recipe Page - Rocketseat's challenge
 Rocketseat's challenge to copy their waffle recipe page
 
 First project to integrate HTML and CSS learnings.
