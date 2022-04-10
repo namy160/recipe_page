@@ -1,6 +1,10 @@
 # Waffle Recipe Page - Rocketseat's challenge
 Rocketseat's challenge to copy their waffle recipe page
 
+# Screenshot
+
+![Screenshot for the Recipe page coding challenge](./waffle.png)
+
 First project to integrate HTML and CSS learnings.
 
 Key CSS Learnings:
